@@ -1,3 +1,6 @@
 # square-let
 
-`(let [x 2 y 3] (+ x y))` macro
+```scheme
+(let [x 2 y 3] 
+  (+ x y))
+```
